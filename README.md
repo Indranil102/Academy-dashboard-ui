@@ -1,8 +1,4 @@
-![Screenshot 2024-04-26 235204](https://github.com/Indranil102/Academy-dashboard-ui/assets/115712973/a794d4fb-5392-47ca-9b0b-1e62f3df3e52)# Academic Dashboard
-Sure, here's a sample README file for your GitHub repository:
-
----
-
+# Academic Dashboard
 # Online Course Dashboard UI/UX Design
 
 ![Dashboard Preview]![Screenshot 2024-04-26 235204](https://github.com/Indranil102/Academy-dashboard-ui/assets/115712973/487071cd-1a95-4859-83b0-c1dfc0613527)
