@@ -1,7 +1,7 @@
 
 # Online Course Dashboard UI/UX Design
 
-Dashboard Preview[Screenshot 2024-04-26 235204](https://github.com/Indranil102/Academy-dashboard-ui/assets/115712973/487071cd-1a95-4859-83b0-c1dfc0613527)
+]Dashboard Preview][Screenshot 2024-04-26 235204](https://github.com/Indranil102/Academy-dashboard-ui/assets/115712973/487071cd-1a95-4859-83b0-c1dfc0613527)
 
 
 ## Overview
