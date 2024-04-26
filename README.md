@@ -34,9 +34,7 @@ To access the prototypes:
 Feedback and contributions are welcome! If you have any suggestions for improving the UI/UX design or would like to contribute to the project, feel free to submit a pull request or open an issue.
 
 ## Credits
-Designed by [Your Name]
-Contact: [Your Email]
+Designed by [INDRANIL SAMANTA]
+Contact: [indranilsamanta2003@gmail.com]
 
----
 
-Feel free to customize this README according to your specific project details and requirements. Let me know if you need further assistance!
